@@ -16,5 +16,3 @@ This repository contains my learning journey through Object-Oriented Programming
 - Operator Overloading  
 - File Handling (Basic)
 
-## 📁 Structure
-
