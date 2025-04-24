@@ -1,4 +1,4 @@
-# Object-Oriented-Programming-in-C-
+# Object-Oriented-Programming-in-CPP
 Programs and notes on OOP in C++
 # Object-Oriented Programming (OOP) in C++
 
